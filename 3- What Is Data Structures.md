@@ -1,0 +1,1 @@
+Veri Yapıları Ne Demek?
