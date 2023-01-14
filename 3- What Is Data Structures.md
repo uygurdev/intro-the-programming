@@ -1,1 +1,1 @@
-Veri Yapıları Ne Demek?
+Programlama ve Algoritmalar Tamam da Veri Yapıları da Nedir?
