@@ -1,10 +1,14 @@
 # Algoritmalar
 
+**Algoritma Nedir ve Neden İhtiyacımız Vardır?**
+
 Bir problemi çözmek için, izlenmesi geren yolun adım adım tasarlanmasına ***algoritma*** denir.
 
-Algoritma bir problemi çözmek için tasarlanan yollardır. Programlama dilleri vasıtası ile, tasarlanan algoritma adımları izlenerek, var olan bir probleme çözüm üretmiş oluruz. Algoritma tasarlanırken, açık ve net olunmalıdır. Basit düşünmeli, yalın bir şekilde tasarlanmalıdır. Aslında algoritma, bir problemi küçük parçalar halinde adım adım çözme işlemidir. Kısaca “**Böl parçala kodla**” olarak tanımlayabilirim 😀 
+Algoritma bir problemi çözmek için tasarlanan yollardır. Programlama dilleri vasıtası ile, tasarlanan algoritma adımları izlenerek, var olan bir probleme çözüm üretmiş oluruz. Algoritma tasarlanırken, açık ve net olunmalıdır. Basit düşünmeli, yalın bir şekilde tasarlanmalıdır. Aslında algoritma, bir problemi küçük parçalar halinde adım adım çözme işlemidir. Kısaca “**Böl parçala kodla**” olarak tanımlayabilirim 😀. Eğer problemimizi, bir sisteme göre, kurallar bütününe göre, adım adım kurgulamazsak, o problemi nasıl çözeceğiz. Kaos ortamı yaratmak istemeyiz. Bu sebepten algoritma mantığına uyarız. Ayrıca bir de problemlerimizi çözerken, hız, zaman, donanım gibi maliyetleri de göz önünde bulundurarak, en uygun, en efektif algoritmaları inşa etmek isteriz. Algoritmaya aslında belirli bir sistem kurgusu da diyebiliriz. Sistem olmazsa kaos olur 🙂 
 
-Örnek olarak, girilen iki sayının ortalaması nedir? gibi bir problemin algoritması şöyle olacaktır.
+Geldik Örneğimize;
+
+Girilen iki sayının ortalaması nedir? gibi bir problemin algoritması şöyle olacaktır.
 
 - Başla
 - İlk sayıyı girin
