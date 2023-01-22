@@ -44,3 +44,5 @@ Temel veri yapılarını iki grupta inceliyoruz. Lineer veri yapıları ve Linee
     Tree
     
     Graph
+    
+    Sizleri sıkmamak ve daha fazla teknik bilgi vermemek adına bu yazımı burada sonlandırıyorum. Bu veri yapılarının avantajlarını ve dezavantajlarını yazdığım başka bir yazımda görüşmek üzere…
